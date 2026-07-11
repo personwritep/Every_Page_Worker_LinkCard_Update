@@ -450,7 +450,7 @@ window.addEventListener('load', function(){ // 親ウインドウで働くメイ
                                         end_target(); // 再編集のウインドウを閉じる
                                     });
 
-                                } // task_in()
+                                } // task()
 
 
 
